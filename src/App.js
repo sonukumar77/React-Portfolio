@@ -6,7 +6,7 @@ import Skills from './components/Skills';
 function App() {
 
 
-  let arr = ["sonu",true,10,"anything"]
+
   return (
     <main>
       <Bio />
